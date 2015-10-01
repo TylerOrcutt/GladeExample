@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/twittumz/Desktop/gladeTest
+CMAKE_SOURCE_DIR = /home/twittumz/Desktop/git/GladeExample/GladeExample
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/twittumz/Desktop/gladeTest
+CMAKE_BINARY_DIR = /home/twittumz/Desktop/git/GladeExample/GladeExample
 
 # Include any dependencies generated for this target.
 include CMakeFiles/gladeTest.dir/depend.make
@@ -51,17 +51,17 @@ include CMakeFiles/gladeTest.dir/flags.make
 
 CMakeFiles/gladeTest.dir/main.cpp.o: CMakeFiles/gladeTest.dir/flags.make
 CMakeFiles/gladeTest.dir/main.cpp.o: main.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/twittumz/Desktop/gladeTest/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/twittumz/Desktop/git/GladeExample/GladeExample/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/gladeTest.dir/main.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/gladeTest.dir/main.cpp.o -c /home/twittumz/Desktop/gladeTest/main.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/gladeTest.dir/main.cpp.o -c /home/twittumz/Desktop/git/GladeExample/GladeExample/main.cpp
 
 CMakeFiles/gladeTest.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gladeTest.dir/main.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/twittumz/Desktop/gladeTest/main.cpp > CMakeFiles/gladeTest.dir/main.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/twittumz/Desktop/git/GladeExample/GladeExample/main.cpp > CMakeFiles/gladeTest.dir/main.cpp.i
 
 CMakeFiles/gladeTest.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gladeTest.dir/main.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/twittumz/Desktop/gladeTest/main.cpp -o CMakeFiles/gladeTest.dir/main.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/twittumz/Desktop/git/GladeExample/GladeExample/main.cpp -o CMakeFiles/gladeTest.dir/main.cpp.s
 
 CMakeFiles/gladeTest.dir/main.cpp.o.requires:
 .PHONY : CMakeFiles/gladeTest.dir/main.cpp.o.requires
@@ -97,6 +97,6 @@ CMakeFiles/gladeTest.dir/clean:
 .PHONY : CMakeFiles/gladeTest.dir/clean
 
 CMakeFiles/gladeTest.dir/depend:
-	cd /home/twittumz/Desktop/gladeTest && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/twittumz/Desktop/gladeTest /home/twittumz/Desktop/gladeTest /home/twittumz/Desktop/gladeTest /home/twittumz/Desktop/gladeTest /home/twittumz/Desktop/gladeTest/CMakeFiles/gladeTest.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/twittumz/Desktop/git/GladeExample/GladeExample && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/twittumz/Desktop/git/GladeExample/GladeExample /home/twittumz/Desktop/git/GladeExample/GladeExample /home/twittumz/Desktop/git/GladeExample/GladeExample /home/twittumz/Desktop/git/GladeExample/GladeExample /home/twittumz/Desktop/git/GladeExample/GladeExample/CMakeFiles/gladeTest.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/gladeTest.dir/depend
 

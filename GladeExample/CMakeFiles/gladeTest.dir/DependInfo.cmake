@@ -4,7 +4,7 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/twittumz/Desktop/gladeTest/main.cpp" "/home/twittumz/Desktop/gladeTest/CMakeFiles/gladeTest.dir/main.cpp.o"
+  "/home/twittumz/Desktop/git/GladeExample/GladeExample/main.cpp" "/home/twittumz/Desktop/git/GladeExample/GladeExample/CMakeFiles/gladeTest.dir/main.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 

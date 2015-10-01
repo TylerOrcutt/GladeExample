@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/twittumz/Desktop/gladeTest/main.cpp
+/home/twittumz/Desktop/git/GladeExample/GladeExample/main.cpp
 gtk/gtk.h
 -
 iostream

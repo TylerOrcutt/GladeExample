@@ -47,10 +47,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/twittumz/Desktop/gladeTest
+CMAKE_SOURCE_DIR = /home/twittumz/Desktop/git/GladeExample/GladeExample
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/twittumz/Desktop/gladeTest
+CMAKE_BINARY_DIR = /home/twittumz/Desktop/git/GladeExample/GladeExample
 
 #=============================================================================
 # Target rules for target CMakeFiles/gladeTest.dir
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/twittumz/Desktop/gladeTest
 CMakeFiles/gladeTest.dir/all:
 	$(MAKE) -f CMakeFiles/gladeTest.dir/build.make CMakeFiles/gladeTest.dir/depend
 	$(MAKE) -f CMakeFiles/gladeTest.dir/build.make CMakeFiles/gladeTest.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/twittumz/Desktop/gladeTest/CMakeFiles  1
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/twittumz/Desktop/git/GladeExample/GladeExample/CMakeFiles  1
 	@echo "Built target gladeTest"
 .PHONY : CMakeFiles/gladeTest.dir/all
 
@@ -69,9 +69,9 @@ all: CMakeFiles/gladeTest.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/gladeTest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/twittumz/Desktop/gladeTest/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/twittumz/Desktop/git/GladeExample/GladeExample/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/gladeTest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/twittumz/Desktop/gladeTest/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/twittumz/Desktop/git/GladeExample/GladeExample/CMakeFiles 0
 .PHONY : CMakeFiles/gladeTest.dir/rule
 
 # Convenience name for target.

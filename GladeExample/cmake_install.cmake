@@ -1,4 +1,4 @@
-# Install script for directory: /home/twittumz/Desktop/gladeTest
+# Install script for directory: /home/twittumz/Desktop/git/GladeExample/GladeExample
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,7 +38,7 @@ ELSE(CMAKE_INSTALL_COMPONENT)
   SET(CMAKE_INSTALL_MANIFEST "install_manifest.txt")
 ENDIF(CMAKE_INSTALL_COMPONENT)
 
-FILE(WRITE "/home/twittumz/Desktop/gladeTest/${CMAKE_INSTALL_MANIFEST}" "")
+FILE(WRITE "/home/twittumz/Desktop/git/GladeExample/GladeExample/${CMAKE_INSTALL_MANIFEST}" "")
 FOREACH(file ${CMAKE_INSTALL_MANIFEST_FILES})
-  FILE(APPEND "/home/twittumz/Desktop/gladeTest/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
+  FILE(APPEND "/home/twittumz/Desktop/git/GladeExample/GladeExample/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
 ENDFOREACH(file)
